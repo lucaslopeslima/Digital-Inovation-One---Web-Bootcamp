@@ -138,6 +138,7 @@ div.form input.button{
     font-size: 14px;
     font-weight:bold;
     border: none;
+    cursor: pointer;
 }
 div.wrap-trace{
     display: flex;
